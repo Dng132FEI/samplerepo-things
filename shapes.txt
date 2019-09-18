@@ -1,4 +1,4 @@
-star
+circle
 oval
 rectangle
 square
